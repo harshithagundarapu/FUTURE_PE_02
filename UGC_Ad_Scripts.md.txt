@@ -1,0 +1,115 @@
+# UGC Ad Scripts
+## AI Content Marketing using UGC Ads
+### Product: Mamaearth Ubtan Face Wash
+
+---
+
+# Introduction
+
+User Generated Content (UGC) advertisements are one of the most effective forms of digital marketing because they feel authentic and relatable. Instead of sounding like traditional advertisements, UGC scripts imitate genuine customer experiences, helping brands build trust and improve engagement. The following scripts are designed for **Mamaearth Ubtan Face Wash** and follow the **Hook → Problem → Solution → Benefits → Call-to-Action (CTA)** framework.
+
+---
+
+# UGC Script 1 – Everyday Glow
+
+**Hook:**  
+"Stop scrolling if you're tired of dull, tanned skin!"
+
+**Problem:**  
+I spend a lot of time outdoors, and my skin started looking dull and uneven. I tried several face washes, but none gave noticeable results.
+
+**Solution:**  
+Then I started using **Mamaearth Ubtan Face Wash**. It contains natural ingredients like Turmeric and Saffron, which gently cleanse the skin while helping remove tan.
+
+**Benefits:**  
+After using it consistently for two weeks, my skin felt cleaner, brighter, and much fresher. It also has a pleasant fragrance and is gentle enough for daily use.
+
+**CTA:**  
+If you're looking for a natural skincare product, give Mamaearth Ubtan Face Wash a try. Your skin will thank you!
+
+---
+
+# UGC Script 2 – Honest Review
+
+**Hook:**  
+"I honestly didn't expect this face wash to work so well!"
+
+**Problem:**  
+Finding a face wash that removes dirt without making my skin dry has always been difficult.
+
+**Solution:**  
+A friend recommended **Mamaearth Ubtan Face Wash**, so I decided to give it a try.
+
+**Benefits:**  
+The texture is smooth, it cleanses my skin effectively, and after regular use, I noticed my skin looking brighter and healthier. It has now become an essential part of my daily skincare routine.
+
+**CTA:**  
+If you're searching for an affordable and natural face wash, this one is definitely worth trying.
+
+---
+
+# UGC Script 3 – Morning Routine
+
+**Hook:**  
+"Want glowing skin without spending hours on skincare?"
+
+**Problem:**  
+My morning routine used to be complicated, and my skin still looked dull throughout the day.
+
+**Solution:**  
+Now I simply use **Mamaearth Ubtan Face Wash** every morning.
+
+**Benefits:**  
+It refreshes my skin instantly, removes excess oil, and leaves my face feeling soft and clean. The natural ingredients make it suitable for everyday use.
+
+**CTA:**  
+Start your day with healthier-looking skin by trying Mamaearth Ubtan Face Wash today!
+
+---
+
+# UGC Script 4 – College Student Experience
+
+**Hook:**  
+"As a college student, this is my favorite skincare product!"
+
+**Problem:**  
+Traveling daily in the sun caused tanning and made my skin look tired.
+
+**Solution:**  
+I started washing my face with **Mamaearth Ubtan Face Wash** every morning and evening.
+
+**Benefits:**  
+Within a few weeks, my skin looked brighter, cleaner, and felt much more refreshed. The best part is that it is easy to use and fits perfectly into my daily routine.
+
+**CTA:**  
+If you're dealing with tanning or dull skin, this product is definitely worth checking out.
+
+---
+
+# UGC Script 5 – Quick Testimonial
+
+**Hook:**  
+"This tiny change completely improved my skincare routine!"
+
+**Problem:**  
+I wanted a face wash that was gentle yet effective for everyday use.
+
+**Solution:**  
+After trying **Mamaearth Ubtan Face Wash**, I immediately noticed how fresh my skin felt after every wash.
+
+**Benefits:**  
+It cleanses deeply, removes dirt and oil, and gives my skin a healthy glow without making it feel dry. The natural ingredients are an added advantage.
+
+**CTA:**  
+Try Mamaearth Ubtan Face Wash and experience the difference yourself!
+
+---
+
+# Conclusion
+
+These UGC scripts demonstrate how AI-generated content can create authentic and engaging advertisements for digital marketing. Each script focuses on solving a common customer problem, highlighting product benefits, and encouraging viewers to take action through a clear and natural Call-to-Action. The scripts are suitable for Instagram Reels, YouTube Shorts, Facebook Ads, and other short-form marketing campaigns. They can also be easily customized for different products and brands, making the prompt system reusable and scalable for future marketing projects.
+
+---
+
+**Author:** Harshitha  
+**Internship:** Future Interns – Prompt Engineering Task 2 (2026)

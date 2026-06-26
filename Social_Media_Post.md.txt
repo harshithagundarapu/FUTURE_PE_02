@@ -1,0 +1,78 @@
+# Social Media Post
+## AI Content Marketing using UGC Ads
+### Prompt Engineering Task 2 (2026)
+
+---
+
+# Introduction
+
+Sharing project work on social media is an excellent way to showcase skills, build a professional portfolio, and connect with industry professionals. As part of the Future Interns task, participants are encouraged to post their UGC ad scripts or project mockups on Instagram and LinkedIn. This document provides ready-to-use captions that explain the project, highlight its objectives, and acknowledge Future Interns.
+
+---
+
+# Instagram Post
+
+🚀 **Completed My Prompt Engineering Task 2 – AI Content Marketing using UGC Ads!**
+
+I'm excited to share my latest internship project with **Future Interns**. In this project, I used **Artificial Intelligence and Prompt Engineering** to create authentic User Generated Content (UGC) advertisements for a real product—**Mamaearth Ubtan Face Wash**.
+
+The project includes:
+- ✅ AI-generated UGC ad scripts
+- ✅ Multiple attention-grabbing hooks
+- ✅ Instagram Reels scripts
+- ✅ YouTube Shorts content
+- ✅ Facebook ad copies
+- ✅ Call-to-Action (CTA) collection
+- ✅ Captions and hashtag strategies
+- ✅ Reusable AI prompt system
+
+This experience helped me understand how AI can simplify content creation while producing engaging marketing materials for businesses.
+
+Thank you **@future_interns** for providing this valuable learning opportunity!
+
+#PromptEngineering #AI #UGC #ContentMarketing #FutureInterns #ChatGPT #DigitalMarketing #InstagramReels #Learning #Portfolio
+
+---
+
+# LinkedIn Post
+
+### 🚀 Completed Prompt Engineering Task 2 – AI Content Marketing using UGC Ads
+
+I am pleased to share the successful completion of my **Prompt Engineering Task 2** as part of my internship with **Future Interns**.
+
+For this project, I developed an AI-powered prompt system that generates authentic **User Generated Content (UGC) advertisements** for a real-world product, **Mamaearth Ubtan Face Wash**.
+
+### Project Highlights:
+- Designed reusable AI prompts
+- Created multiple UGC advertisement scripts
+- Developed Instagram Reels and YouTube Shorts scripts
+- Generated Facebook ad copies
+- Built a collection of engaging hooks and CTAs
+- Created social media captions and hashtag strategies
+- Organized the complete project in a GitHub repository
+
+This project enhanced my understanding of **AI-driven content marketing**, **prompt engineering**, and **digital marketing strategies**. It also demonstrated how structured prompts can help businesses create engaging marketing content efficiently.
+
+I would like to thank **Future Interns** for providing this opportunity to learn and apply AI in a real-world marketing scenario.
+
+I look forward to exploring more AI-powered solutions in content creation and digital marketing.
+
+#PromptEngineering #ArtificialIntelligence #ChatGPT #DigitalMarketing #ContentMarketing #FutureInterns #UGC #Learning #Portfolio #GitHub
+
+---
+
+# Social Media Sharing Tips
+
+To maximize engagement:
+- Include screenshots of your project or GitHub repository.
+- Share short video clips or mockups of your UGC ad scripts.
+- Mention the selected product and explain the problem your project solves.
+- Tag **@future_interns** as requested.
+- Add relevant hashtags to improve visibility.
+- Include your GitHub repository link in your LinkedIn post.
+
+---
+
+# Conclusion
+
+Posting your completed project on Instagram and LinkedIn helps demonstrate your practical skills in AI, prompt engineering, and content marketing. It also strengthens your professional portfolio and increases visibility among recruiters, mentors, and potential employers. By showcasing your work publicly, you highlight both your technical abilities and your commitment to continuous learning.

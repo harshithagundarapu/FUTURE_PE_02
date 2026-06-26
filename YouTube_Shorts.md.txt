@@ -1,0 +1,106 @@
+# YouTube Shorts Scripts
+## AI Content Marketing using UGC Ads
+### Product: Mamaearth Ubtan Face Wash
+
+---
+
+# Introduction
+
+YouTube Shorts has become one of the fastest-growing platforms for short-form video marketing. Brands use Shorts to showcase products through quick, engaging, and relatable content that captures viewers' attention within the first few seconds. UGC (User Generated Content) advertisements perform particularly well because they feel like honest recommendations instead of traditional commercials.
+
+The following scripts are designed for **Mamaearth Ubtan Face Wash** using a storytelling approach that highlights real-life skincare concerns, product benefits, and a natural call-to-action.
+
+---
+
+# YouTube Short 1 – "My Everyday Skincare Essential"
+
+**Duration:** 30 Seconds
+
+### Hook
+"Here's the one product I never skip in my skincare routine!"
+
+### Script
+"I spend a lot of time outdoors, so my skin often looks dull and tired. I wanted something gentle that could clean my face without making it dry. That's when I started using Mamaearth Ubtan Face Wash. It removes dirt, excess oil, and leaves my skin feeling fresh every morning. Plus, it contains natural ingredients like Turmeric and Saffron. It's now a part of my daily routine!"
+
+### CTA
+"Give it a try if you're looking for a simple skincare upgrade."
+
+---
+
+# YouTube Short 2 – "Honest Review"
+
+**Duration:** 35 Seconds
+
+### Hook
+"I didn't expect this face wash to become my favorite!"
+
+### Script
+"I've tried so many face washes, but most either dried my skin or didn't make much difference. After using Mamaearth Ubtan Face Wash for a couple of weeks, my skin started looking brighter and felt much cleaner. I love how refreshing it feels after every wash, and it fits perfectly into my daily routine."
+
+### CTA
+"If you're searching for a gentle everyday face wash, this is worth checking out."
+
+---
+
+# YouTube Short 3 – "Before & After"
+
+**Duration:** 30 Seconds
+
+### Hook
+"Want healthier-looking skin? Watch this!"
+
+### Script
+"Before using Mamaearth Ubtan Face Wash, my skin often looked dull after spending time in the sun. I started using it every morning and evening, and gradually noticed my skin looking fresher and more radiant. It's easy to use, smells great, and leaves my face feeling clean without any dryness."
+
+### CTA
+"Try it yourself and see the difference."
+
+---
+
+# YouTube Short 4 – "College Student Routine"
+
+**Duration:** 40 Seconds
+
+### Hook
+"As a college student, this is my favorite skincare product."
+
+### Script
+"Between classes and traveling every day, my skin gets exposed to dust and pollution. I wanted something simple but effective. Mamaearth Ubtan Face Wash has become my everyday companion because it cleans my skin thoroughly and gives me a refreshed feeling before and after college. I also love that it's made with natural ingredients."
+
+### CTA
+"If you're looking for an easy skincare routine, start here."
+
+---
+
+# Tips for High-Performing YouTube Shorts
+
+- Grab attention within the first 3 seconds.
+- Use a conversational and friendly tone.
+- Show the product naturally during the video.
+- Keep the script between 30–40 seconds.
+- Include captions to improve accessibility.
+- Focus on solving one specific customer problem.
+- End with a simple and clear call-to-action.
+
+---
+
+# Benefits of Using AI for YouTube Shorts
+
+Using AI-powered prompt engineering allows marketers to:
+- Generate multiple video ideas quickly.
+- Save time on scriptwriting.
+- Maintain consistent brand messaging.
+- Create authentic UGC-style content.
+- Adapt scripts for different products and campaigns.
+- Improve engagement through structured storytelling.
+
+---
+
+# Conclusion
+
+These YouTube Shorts scripts demonstrate how AI-generated UGC content can help businesses create engaging, trustworthy, and conversion-focused videos. By combining relatable storytelling with product benefits and clear CTAs, brands can effectively connect with their audience and improve the performance of their social media marketing campaigns. The reusable prompt system also makes it easy to customize these scripts for other products and industries.
+
+---
+
+**Author:** Harshitha  
+**Internship:** Future Interns – Prompt Engineering Task 2 (2026)

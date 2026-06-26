@@ -1,0 +1,185 @@
+# Prompt System
+## AI Content Marketing using UGC Ads
+### Prompt Engineering Task 2 (2026)
+
+---
+
+# Introduction
+
+This document contains a reusable prompt engineering system designed to generate authentic User Generated Content (UGC) advertisements using Artificial Intelligence. The prompts are structured to create engaging, natural, and conversion-focused content for different products and businesses.
+
+For this project, the selected product is **Mamaearth Ubtan Face Wash**, but the prompts can easily be modified for any other product or service by replacing the product details.
+
+---
+
+# Master Prompt
+
+**Prompt:**
+
+You are an experienced UGC content creator and digital marketing copywriter.
+
+Create a natural and authentic UGC advertisement for the following product.
+
+**Product:** Mamaearth Ubtan Face Wash
+
+The advertisement should:
+- Sound like a real customer sharing their experience.
+- Follow the Problem → Solution → Benefits → Call-to-Action framework.
+- Avoid overly promotional language.
+- Be suitable for Instagram Reels and YouTube Shorts.
+- Keep the tone friendly, trustworthy, and conversational.
+- Generate a script between 30–45 seconds.
+
+---
+
+# Hook Generation Prompt
+
+**Prompt:**
+
+Generate 15 unique and attention-grabbing hooks for the product **Mamaearth Ubtan Face Wash**.
+
+Requirements:
+- Maximum 10 words.
+- Suitable for Instagram Reels.
+- Create curiosity.
+- Encourage viewers to continue watching.
+- Avoid clickbait.
+
+Example Output:
+- Stop scrolling if your skin looks dull!
+- I finally found a face wash that works!
+- This skincare mistake ruined my glow...
+- My tan disappeared faster than I expected!
+
+---
+
+# UGC Script Prompt
+
+**Prompt:**
+
+Write a 45-second UGC advertisement script for **Mamaearth Ubtan Face Wash**.
+
+The script should include:
+1. Hook
+2. Customer problem
+3. Product introduction
+4. Personal experience
+5. Key benefits
+6. Strong CTA
+
+Tone:
+- Friendly
+- Honest
+- Relatable
+- Natural
+
+---
+
+# Instagram Reels Prompt
+
+**Prompt:**
+
+Create a 30-second Instagram Reel script promoting **Mamaearth Ubtan Face Wash**.
+
+Include:
+- Quick hook
+- Product demonstration
+- Natural dialogue
+- Ending CTA
+
+Style:
+- Fast-paced
+- Engaging
+- Mobile-friendly
+
+---
+
+# YouTube Shorts Prompt
+
+**Prompt:**
+
+Generate a YouTube Shorts advertisement for **Mamaearth Ubtan Face Wash**.
+
+Requirements:
+- Duration: 30–40 seconds
+- Storytelling format
+- Customer testimonial style
+- End with a strong CTA
+
+---
+
+# Facebook Ads Prompt
+
+**Prompt:**
+
+Generate a Facebook advertisement for **Mamaearth Ubtan Face Wash**.
+
+Include:
+- Primary Text
+- Headline
+- Description
+- CTA
+
+Tone:
+Professional yet conversational.
+
+---
+
+# Caption Prompt
+
+**Prompt:**
+
+Generate five Instagram captions for **Mamaearth Ubtan Face Wash**.
+
+Requirements:
+- Include emojis.
+- Mention product benefits.
+- Encourage engagement.
+- Maximum 100 words.
+
+---
+
+# CTA Prompt
+
+**Prompt:**
+
+Generate 20 high-converting Call-to-Action statements for **Mamaearth Ubtan Face Wash**.
+
+Examples:
+- Shop Now
+- Try It Today
+- Reveal Your Natural Glow
+- Experience Healthy Skin
+- Order Before Stock Runs Out
+
+---
+
+# Platform Adaptation Prompt
+
+**Prompt:**
+
+Rewrite the same advertisement for the following platforms:
+- Instagram Reels
+- Facebook Ads
+- YouTube Shorts
+- WhatsApp Status
+- LinkedIn Post
+
+Adjust the tone, length, and formatting according to each platform while keeping the message consistent.
+
+---
+
+# Benefits of This Prompt System
+
+- Reusable for different brands and products.
+- Saves time in content creation.
+- Produces authentic UGC-style advertisements.
+- Supports multiple social media platforms.
+- Generates high-quality marketing content quickly.
+- Helps marketers create engaging campaigns with minimal effort.
+
+---
+
+# Conclusion
+
+This prompt system demonstrates how structured AI prompts can simplify digital marketing content creation. By using a consistent framework, businesses and marketers can generate engaging UGC advertisements, captions, and promotional content efficiently. The prompts are flexible, scalable, and suitable for agencies, freelancers, startups, and established brands.

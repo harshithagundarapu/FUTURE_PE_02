@@ -1,0 +1,155 @@
+# GitHub Guide
+## AI Content Marketing using UGC Ads
+### Prompt Engineering Task 2 (2026)
+
+---
+
+# Introduction
+
+GitHub is one of the most widely used platforms for hosting, managing, and showcasing software and documentation projects. For this internship task, creating a well-organized GitHub repository demonstrates professionalism, version control skills, and the ability to present work in a structured manner.
+
+This guide explains how to organize, upload, and maintain the **AI Content Marketing using UGC Ads** project on GitHub.
+
+---
+
+# Repository Name
+
+Choose a clear and professional repository name.
+
+**Suggested Repository Name:**
+
+AI-Content-Marketing-UGC-Ads
+
+or
+
+Prompt-Engineering-Task-2
+
+---
+
+# Recommended Folder Structure
+
+```
+AI-Content-Marketing-UGC-Ads/
+
+│── README.md
+│── LICENSE
+│── Project_Description.md
+
+├── prompts/
+│   ├── Prompt_System.md
+│   ├── Hooks.md
+│   ├── CTA_Collection.md
+
+├── outputs/
+│   ├── UGC_Ad_Scripts.md
+│   ├── Instagram_Reels_Scripts.md
+│   ├── YouTube_Shorts.md
+│   ├── Facebook_Ads.md
+│   ├── Captions.md
+│   ├── Hashtags.md
+
+├── documentation/
+│   ├── GitHub_Guide.md
+│   ├── Social_Media_Post.md
+
+└── images/
+    ├── Workflow.png
+    ├── Project_Screenshots.png
+```
+
+This structure keeps all files organized and easy to navigate.
+
+---
+
+# Steps to Upload the Project
+
+### Step 1: Create a GitHub Account
+If you do not already have one, create a GitHub account at **https://github.com**.
+
+### Step 2: Create a New Repository
+- Click **New Repository**.
+- Enter the repository name.
+- Add a short description.
+- Choose **Public** visibility.
+- Initialize the repository with a README if needed.
+
+### Step 3: Upload Project Files
+Upload all Markdown files, documentation, screenshots, and images into their respective folders.
+
+### Step 4: Commit Changes
+Write a meaningful commit message, such as:
+
+```
+Initial commit - AI Content Marketing using UGC Ads project
+```
+
+Click **Commit Changes**.
+
+### Step 5: Verify Repository
+Check that:
+- All files are uploaded.
+- The folder structure is correct.
+- The README displays properly.
+- Images and documentation open correctly.
+
+---
+
+# Best Practices
+
+To make your repository more professional:
+
+- Use meaningful file names.
+- Keep folder names simple and organized.
+- Include screenshots of outputs.
+- Write a clear README.
+- Add comments or explanations where necessary.
+- Maintain consistent formatting across documents.
+
+---
+
+# Documentation Tips
+
+Your repository should clearly explain:
+- Project objective
+- Selected product
+- AI tools used
+- Prompt engineering approach
+- Generated outputs
+- Folder structure
+- Future improvements
+
+Good documentation helps reviewers and employers quickly understand your work.
+
+---
+
+# Why GitHub Matters
+
+Uploading your project to GitHub offers several advantages:
+
+- Demonstrates technical and documentation skills.
+- Creates a professional portfolio.
+- Makes it easy to share your work.
+- Supports version control.
+- Helps recruiters and internship mentors review your project efficiently.
+
+A well-maintained repository reflects attention to detail and professionalism.
+
+---
+
+# Final Checklist
+
+Before submitting your project, ensure that:
+
+- README is complete.
+- All required files are uploaded.
+- Folder structure is organized.
+- Screenshots are included.
+- Documentation is clear.
+- Repository is public.
+- Project title and descriptions are accurate.
+
+---
+
+# Conclusion
+
+GitHub is more than just a code hosting platform—it is a portfolio that showcases your skills, organization, and professionalism. By following this guide, you can present your **AI Content Marketing using UGC Ads** project in a structured and polished manner, making it easy for reviewers, mentors, and potential employers to evaluate your work.
